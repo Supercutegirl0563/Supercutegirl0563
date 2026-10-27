@@ -8,8 +8,8 @@
 
 *Building ideas into reality, one line of code at a time.* 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=yellow)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Supercutegirl0563?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME)
+[![GitHub stars](https://img.shields.io/github/stars/Supercutegirl0563?style=for-the-badge&logo=github&color=yellow)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -43,7 +43,6 @@ I'm a developer passionate about technology, software development, and building 
 Here are some of the projects I'm developing and experimenting with.
 
 - **Application Development** — Building useful applications and exploring new software ideas.
-- **Python Projects** — Experimenting with Python to create practical tools and programs.
 - **Personal Projects** — Learning through hands-on development and solving programming challenges.
 
 *Explore my repositories to see what I'm currently building!*
@@ -54,9 +53,9 @@ Here are some of the projects I'm developing and experimenting with.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Supercutegirl0563&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supercutegirl0563&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
