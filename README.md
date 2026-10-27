@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Alvin Phyo Htet!
+# Hey, I'm Alvin Phyo Htet 👋
 
-### 💻 Aspiring Software Engineer | 🎮 Roblox Game Developer
+### Aspiring Software Developer · App Developer · Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Roblox+Game+Developer;Learning+Something+New+Every+Day;Building+Games+With+Luau;Future+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Useful+Applications;Turning+Ideas+Into+Code;Always+Learning+Something+New;Future+Software+Engineer)](https://git.io/typing-svg)
 
-*Turning ideas into code, one project at a time.* 🚀
+*Building ideas into reality, one line of code at a time.* 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME)
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=yellow)](https://github.com/YOUR_USERNAME)
@@ -15,24 +15,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💫 About Me
 
-- 🎮 Passionate about developing games on **Roblox**
-- 💻 Learning programming and software development
-- 🐍 Exploring Python and building projects
-- 🛠️ Interested in game systems, scripting, and interactive experiences
-- 🎯 Working towards my dream of becoming a **software engineer at Roblox**
-- 📈 Always learning, experimenting, and improving
+I'm a developer passionate about technology, software development, and building applications that solve real-world problems.
+
+- 💻 Interested in application and software development
+- 🐍 Exploring Python and building practical projects
+- 🛠️ Enjoy experimenting with new technologies and tools
+- 🧠 Constantly learning and improving my programming skills
+- 🚀 Turning creative ideas into functional applications
+- 🎯 Working towards becoming a professional software engineer
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-**Game Development:** Roblox Studio · Luau · Game Mechanics · Animation Systems
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -40,34 +40,23 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 Outbreak Defense
-A Roblox game project focused on survival, defense mechanics, and gameplay systems.
+Here are some of the projects I'm developing and experimenting with.
 
-### 👻 Floorbound
-A Roblox game project where I'm exploring game mechanics and creating engaging player experiences.
+- **Application Development** — Building useful applications and exploring new software ideas.
+- **Python Projects** — Experimenting with Python to create practical tools and programs.
+- **Personal Projects** — Learning through hands-on development and solving programming challenges.
 
-### 🛡️ Security System
-An experimental Raspberry Pi project exploring motion detection, audio input, and Python-based GUI development.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+*Explore my repositories to see what I'm currently building!*
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
@@ -75,22 +64,23 @@ An experimental Raspberry Pi project exploring motion detection, audio input, an
 
 ## 🎯 My Goals
 
-- [ ] Become a professional software engineer
-- [ ] Develop and publish more Roblox games
-- [ ] Improve my programming and problem-solving skills
-- [ ] Build projects that people enjoy using
+- [ ] Develop and publish useful applications
+- [ ] Expand my knowledge of programming languages
+- [ ] Build a strong portfolio of software projects
+- [ ] Improve my problem-solving skills
 - [ ] Contribute to open-source projects
+- [ ] Become a professional software engineer
 
 ---
 
 <div align="center">
 
-### 💬 A Little Reminder
+### 💡 My Philosophy
 
-*"Great developers aren't born. They're built, one line of code at a time."*
+*"Dream big. Write code. Build something meaningful."*
 
-⭐ **Thanks for visiting my profile!**
+Thanks for stopping by! ⭐
 
-Feel free to explore my repositories and follow my development journey.
+**Feel free to explore my repositories and follow my journey.**
 
 </div>
